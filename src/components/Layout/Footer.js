@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Techinfo YT
+          &copy; All Rights Reserved
         </Typography>
       </Box>
     </>
